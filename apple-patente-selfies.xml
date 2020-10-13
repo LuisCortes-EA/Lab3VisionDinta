@@ -1,1 +1,339 @@
-<annotation><filename>apple-patente-selfies.jpg</filename><folder>users/LCDR//dinta</folder><source><submittedBy>Luis Alberto Cortes Bustamante</submittedBy></source><imagesize><nrows>720</nrows><ncols>1280</ncols></imagesize><object><name>pedro</name><deleted>1</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:02:29:051</date><id>0</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>131</x><y>55</y><time>13-10-20 17:02:15:521</time></pt><pt><x>292</x><y>55</y><time>13-10-20 17:02:23:897</time></pt><pt><x>292</x><y>263</y><time>undefined</time></pt><pt><x>131</x><y>263</y><time>undefined</time></pt><closed_date>13-10-20 17:02:23:897</closed_date></polygon></object><object><name>juan</name><deleted>1</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:02:37:578</date><id>1</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>525</x><y>89</y><time>13-10-20 17:02:30:609</time></pt><pt><x>668</x><y>89</y><time>13-10-20 17:02:33:160</time></pt><pt><x>668</x><y>292</y><time>undefined</time></pt><pt><x>525</x><y>292</y><time>undefined</time></pt><closed_date>13-10-20 17:02:33:160</closed_date></polygon></object><object><name>diego</name><deleted>1</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:02:47:422</date><id>2</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>700</x><y>21</y><time>13-10-20 17:02:39:721</time></pt><pt><x>833</x><y>21</y><time>13-10-20 17:02:43:160</time></pt><pt><x>833</x><y>217</y><time>undefined</time></pt><pt><x>700</x><y>217</y><time>undefined</time></pt><closed_date>13-10-20 17:02:43:160</closed_date></polygon></object><object><name>euripides</name><deleted>1</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:02:57:590</date><id>3</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>874</x><y>84</y><time>13-10-20 17:02:48:873</time></pt><pt><x>1032</x><y>84</y><time>13-10-20 17:02:51:840</time></pt><pt><x>1032</x><y>285</y><time>undefined</time></pt><pt><x>874</x><y>285</y><time>undefined</time></pt><closed_date>13-10-20 17:02:51:840</closed_date></polygon></object><object><name>don quijote</name><deleted>0</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:05:20:254</date><id>4</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>140</x><y>60</y><time>13-10-20 17:05:07:313</time></pt><pt><x>292</x><y>60</y><time>13-10-20 17:05:10:889</time></pt><pt><x>292</x><y>259</y><time>undefined</time></pt><pt><x>140</x><y>259</y><time>undefined</time></pt><closed_date>13-10-20 17:05:10:889</closed_date></polygon></object><object><name>sancho panza</name><deleted>0</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:05:36:918</date><id>5</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>519</x><y>84</y><time>13-10-20 17:05:21:745</time></pt><pt><x>666</x><y>84</y><time>13-10-20 17:05:25:456</time></pt><pt><x>666</x><y>290</y><time>undefined</time></pt><pt><x>519</x><y>290</y><time>undefined</time></pt><closed_date>13-10-20 17:05:25:456</closed_date></polygon></object><object><name>lotario</name><deleted>0</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:06:24:101</date><id>6</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>709</x><y>32</y><time>13-10-20 17:05:39:345</time></pt><pt><x>836</x><y>32</y><time>13-10-20 17:05:43:344</time></pt><pt><x>836</x><y>221</y><time>undefined</time></pt><pt><x>709</x><y>221</y><time>undefined</time></pt><closed_date>13-10-20 17:05:43:345</closed_date></polygon></object><object><name>cardenio</name><deleted>0</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:07:43:374</date><id>7</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>874</x><y>84</y><time>13-10-20 17:06:26:553</time></pt><pt><x>1036</x><y>84</y><time>13-10-20 17:06:29:376</time></pt><pt><x>1036</x><y>296</y><time>undefined</time></pt><pt><x>874</x><y>296</y><time>undefined</time></pt><closed_date>13-10-20 17:06:29:376</closed_date></polygon></object><object><name>luscinda</name><deleted>0</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:08:00:238</date><id>8</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>416</x><y>460</y><time>13-10-20 17:07:47:313</time></pt><pt><x>236</x><y>460</y><time>13-10-20 17:07:50:688</time></pt><pt><x>236</x><y>252</y><time>undefined</time></pt><pt><x>416</x><y>252</y><time>undefined</time></pt><closed_date>13-10-20 17:07:50:688</closed_date></polygon></object><object><name>antonia quijana</name><deleted>0</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:08:23:698</date><id>9</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>544</x><y>364</y><time>13-10-20 17:08:01:481</time></pt><pt><x>780</x><y>364</y><time>13-10-20 17:08:03:487</time></pt><pt><x>780</x><y>669</y><time>undefined</time></pt><pt><x>544</x><y>669</y><time>undefined</time></pt><closed_date>13-10-20 17:08:03:487</closed_date></polygon></object><object><name>zoraida</name><deleted>0</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:08:42:686</date><id>10</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>824</x><y>346</y><time>13-10-20 17:08:25:432</time></pt><pt><x>1020</x><y>346</y><time>13-10-20 17:08:30:096</time></pt><pt><x>1020</x><y>610</y><time>undefined</time></pt><pt><x>824</x><y>610</y><time>undefined</time></pt><closed_date>13-10-20 17:08:30:096</closed_date></polygon></object><object><name>altisidora</name><deleted>0</deleted><verified>0</verified><occluded>no</occluded><attributes></attributes><parts><hasparts></hasparts><ispartof></ispartof></parts><date>13-10-20 17:09:13:102</date><id>11</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>1222</x><y>271</y><time>13-10-20 17:08:45:017</time></pt><pt><x>1042</x><y>271</y><time>13-10-20 17:08:47:016</time></pt><pt><x>1042</x><y>504</y><time>undefined</time></pt><pt><x>1222</x><y>504</y><time>undefined</time></pt><closed_date>13-10-20 17:08:47:017</closed_date></polygon></object></annotation>
+<annotation>
+  <filename>apple-patente-selfies.jpg</filename>
+  <folder>users/LCDR//dinta</folder>
+  <source>
+    <submittedBy>Luis Alberto Cortes Bustamante</submittedBy>
+  </source>
+  <imagesize>
+    <nrows>720</nrows>
+    <ncols>1280</ncols>
+  </imagesize>
+  <object>
+    <name>don quijote</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <attributes>
+    </attributes>
+    <parts>
+      <hasparts>
+      </hasparts>
+      <ispartof>
+      </ispartof>
+    </parts>
+    <date>13-10-20 17:05:20:254</date>
+    <id>4</id>
+    <type>bounding_box</type>
+    <polygon>
+      <username>anonymous</username>
+      <pt>
+        <x>140</x>
+        <y>60</y>
+        <time>13-10-20 17:05:07:313</time>
+      </pt>
+      <pt>
+        <x>292</x>
+        <y>60</y>
+        <time>13-10-20 17:05:10:889</time>
+      </pt>
+      <pt>
+        <x>292</x>
+        <y>259</y>
+        <time>undefined</time>
+      </pt>
+      <pt>
+        <x>140</x>
+        <y>259</y>
+        <time>undefined</time>
+      </pt>
+      <closed_date>13-10-20 17:05:10:889</closed_date>
+    </polygon>
+  </object>
+  <object>
+    <name>sancho panza</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <attributes>
+    </attributes>
+    <parts>
+      <hasparts>
+      </hasparts>
+      <ispartof>
+      </ispartof>
+    </parts>
+    <date>13-10-20 17:05:36:918</date>
+    <id>5</id>
+    <type>bounding_box</type>
+    <polygon>
+      <username>anonymous</username>
+      <pt>
+        <x>519</x>
+        <y>84</y>
+        <time>13-10-20 17:05:21:745</time>
+      </pt>
+      <pt>
+        <x>666</x>
+        <y>84</y>
+        <time>13-10-20 17:05:25:456</time>
+      </pt>
+      <pt>
+        <x>666</x>
+        <y>290</y>
+        <time>undefined</time>
+      </pt>
+      <pt>
+        <x>519</x>
+        <y>290</y>
+        <time>undefined</time>
+      </pt>
+      <closed_date>13-10-20 17:05:25:456</closed_date>
+    </polygon>
+  </object>
+  <object>
+    <name>lotario</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <attributes>
+    </attributes>
+    <parts>
+      <hasparts>
+      </hasparts>
+      <ispartof>
+      </ispartof>
+    </parts>
+    <date>13-10-20 17:06:24:101</date>
+    <id>6</id>
+    <type>bounding_box</type>
+    <polygon>
+      <username>anonymous</username>
+      <pt>
+        <x>709</x>
+        <y>32</y>
+        <time>13-10-20 17:05:39:345</time>
+      </pt>
+      <pt>
+        <x>836</x>
+        <y>32</y>
+        <time>13-10-20 17:05:43:344</time>
+      </pt>
+      <pt>
+        <x>836</x>
+        <y>221</y>
+        <time>undefined</time>
+      </pt>
+      <pt>
+        <x>709</x>
+        <y>221</y>
+        <time>undefined</time>
+      </pt>
+      <closed_date>13-10-20 17:05:43:345</closed_date>
+    </polygon>
+  </object>
+  <object>
+    <name>cardenio</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <attributes>
+    </attributes>
+    <parts>
+      <hasparts>
+      </hasparts>
+      <ispartof>
+      </ispartof>
+    </parts>
+    <date>13-10-20 17:07:43:374</date>
+    <id>7</id>
+    <type>bounding_box</type>
+    <polygon>
+      <username>anonymous</username>
+      <pt>
+        <x>874</x>
+        <y>84</y>
+        <time>13-10-20 17:06:26:553</time>
+      </pt>
+      <pt>
+        <x>1036</x>
+        <y>84</y>
+        <time>13-10-20 17:06:29:376</time>
+      </pt>
+      <pt>
+        <x>1036</x>
+        <y>296</y>
+        <time>undefined</time>
+      </pt>
+      <pt>
+        <x>874</x>
+        <y>296</y>
+        <time>undefined</time>
+      </pt>
+      <closed_date>13-10-20 17:06:29:376</closed_date>
+    </polygon>
+  </object>
+  <object>
+    <name>luscinda</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <attributes>
+    </attributes>
+    <parts>
+      <hasparts>
+      </hasparts>
+      <ispartof>
+      </ispartof>
+    </parts>
+    <date>13-10-20 17:08:00:238</date>
+    <id>8</id>
+    <type>bounding_box</type>
+    <polygon>
+      <username>anonymous</username>
+      <pt>
+        <x>416</x>
+        <y>460</y>
+        <time>13-10-20 17:07:47:313</time>
+      </pt>
+      <pt>
+        <x>236</x>
+        <y>460</y>
+        <time>13-10-20 17:07:50:688</time>
+      </pt>
+      <pt>
+        <x>236</x>
+        <y>252</y>
+        <time>undefined</time>
+      </pt>
+      <pt>
+        <x>416</x>
+        <y>252</y>
+        <time>undefined</time>
+      </pt>
+      <closed_date>13-10-20 17:07:50:688</closed_date>
+    </polygon>
+  </object>
+  <object>
+    <name>antonia quijana</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <attributes>
+    </attributes>
+    <parts>
+      <hasparts>
+      </hasparts>
+      <ispartof>
+      </ispartof>
+    </parts>
+    <date>13-10-20 17:08:23:698</date>
+    <id>9</id>
+    <type>bounding_box</type>
+    <polygon>
+      <username>anonymous</username>
+      <pt>
+        <x>544</x>
+        <y>364</y>
+        <time>13-10-20 17:08:01:481</time>
+      </pt>
+      <pt>
+        <x>780</x>
+        <y>364</y>
+        <time>13-10-20 17:08:03:487</time>
+      </pt>
+      <pt>
+        <x>780</x>
+        <y>669</y>
+        <time>undefined</time>
+      </pt>
+      <pt>
+        <x>544</x>
+        <y>669</y>
+        <time>undefined</time>
+      </pt>
+      <closed_date>13-10-20 17:08:03:487</closed_date>
+    </polygon>
+  </object>
+  <object>
+    <name>zoraida</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <attributes>
+    </attributes>
+    <parts>
+      <hasparts>
+      </hasparts>
+      <ispartof>
+      </ispartof>
+    </parts>
+    <date>13-10-20 17:08:42:686</date>
+    <id>10</id>
+    <type>bounding_box</type>
+    <polygon>
+      <username>anonymous</username>
+      <pt>
+        <x>824</x>
+        <y>346</y>
+        <time>13-10-20 17:08:25:432</time>
+      </pt>
+      <pt>
+        <x>1020</x>
+        <y>346</y>
+        <time>13-10-20 17:08:30:096</time>
+      </pt>
+      <pt>
+        <x>1020</x>
+        <y>610</y>
+        <time>undefined</time>
+      </pt>
+      <pt>
+        <x>824</x>
+        <y>610</y>
+        <time>undefined</time>
+      </pt>
+      <closed_date>13-10-20 17:08:30:096</closed_date>
+    </polygon>
+  </object>
+  <object>
+    <name>altisidora</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <attributes>
+    </attributes>
+    <parts>
+      <hasparts>
+      </hasparts>
+      <ispartof>
+      </ispartof>
+    </parts>
+    <date>13-10-20 17:09:13:102</date>
+    <id>11</id>
+    <type>bounding_box</type>
+    <polygon>
+      <username>anonymous</username>
+      <pt>
+        <x>1222</x>
+        <y>271</y>
+        <time>13-10-20 17:08:45:017</time>
+      </pt>
+      <pt>
+        <x>1042</x>
+        <y>271</y>
+        <time>13-10-20 17:08:47:016</time>
+      </pt>
+      <pt>
+        <x>1042</x>
+        <y>504</y>
+        <time>undefined</time>
+      </pt>
+      <pt>
+        <x>1222</x>
+        <y>504</y>
+        <time>undefined</time>
+      </pt>
+      <closed_date>13-10-20 17:08:47:017</closed_date>
+    </polygon>
+  </object>
+</annotation>
